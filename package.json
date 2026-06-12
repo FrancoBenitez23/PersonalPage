@@ -1,0 +1,13 @@
+{
+  "name": "personal-page",
+  "version": "1.0.0",
+  "description": "Franco Benitez — personal site",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
